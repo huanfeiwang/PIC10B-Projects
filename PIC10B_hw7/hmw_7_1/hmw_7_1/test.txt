@@ -1,0 +1,4 @@
+Task A|10
+Task B|20
+Task C|25
+Task D|11
